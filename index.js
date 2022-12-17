@@ -14,3 +14,6 @@ copyOfObjA.c = 'textC'
 
 console.log(copyOfObjA)
 console.log(objA)
+
+
+main
